@@ -26,4 +26,4 @@ https://private-user-images.githubusercontent.com/103973989/267303104-23469db0-5
 
 You can try our CodeFuse-CodeLlama-34B model on ModelScope: [CodeFuse-CodeLlama34B-MFT-Demo](https://modelscope.cn/studios/codefuse-ai/CodeFuse-CodeLlama34B-MFT-Demo/summary)
 
-![Online Demo Snapshot](assets/modelscope_demo.png)
+![Online Demo Snapshot](assets/modelscope_demo2.png)
