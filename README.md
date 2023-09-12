@@ -30,10 +30,7 @@ We believe that our solution can significantly enhance the performance of pretra
 
 ## Demo Video
 
-<video width="320" height="240" controls>
-  <source src="assets/snake_game_codefuse.mp4" type="video/mp4">
-  Demo
-</video>
+<video src="https://github.com/codefuse-ai/codefuse/blob/master/assets/snake_game_codefuse.mp4" width="320" height="240" controls />
 
 
 ## Online Demo
