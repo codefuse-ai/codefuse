@@ -13,13 +13,15 @@
 
 ## About
 
-TBA
+This is a repository used to show demos of CodeFuse models ([HF Repo](https://huggingface.co/codefuse-ai)|[ModelScope Repo](https://modelscope.cn/organization/codefuse-ai)). 
+So far, we have provided both a video demo and an online interactive demo, allowing you to observe the interaction with CodeFuse models and give them a try.
 
 ## Demo Video
 
-Please note that the English version is under preparation. We appreciate your understanding and patience.
+*Please note that the English version is under preparation. We appreciate your understanding and patience.*
 
-https://private-user-images.githubusercontent.com/103973989/267303104-23469db0-5a30-40cc-8816-1c1ed418371e.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE2OTQ1MTU3ODcsIm5iZiI6MTY5NDUxNTQ4NywicGF0aCI6Ii8xMDM5NzM5ODkvMjY3MzAzMTA0LTIzNDY5ZGIwLTVhMzAtNDBjYy04ODE2LTFjMWVkNDE4MzcxZS5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMwOTEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMDkxMlQxMDQ0NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05NTY5OTI5OTE3Yzk4ZmQ5NjNjMmIyMDZjMWY1MjY2MTZlNWQ4Mjk1YWUxMjIyNjZhYmRmMjIwMGJiMzE5MmIzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.vgaVlNucy2LM49pFLXK-zOZEC0rmQfl98u1Jsq-GSoY
+https://user-images.githubusercontent.com/103973989/267514150-21012a5d-652d-4aea-bcea-582e67855ad7.mp4
+
 
 
 ## Online Demo
@@ -27,3 +29,11 @@ https://private-user-images.githubusercontent.com/103973989/267303104-23469db0-5
 You can try our CodeFuse-CodeLlama-34B model on ModelScope: [CodeFuse-CodeLlama34B-MFT-Demo](https://modelscope.cn/studios/codefuse-ai/CodeFuse-CodeLlama34B-MFT-Demo/summary)
 
 ![Online Demo Snapshot](assets/modelscope_demo2.png)
+
+## How to get
+
+If you are interested in them, you can download our open-source models from [**HF Repo**](https://huggingface.co/codefuse-ai) or [**ModelScope Repo**](https://modelscope.cn/organization/codefuse-ai). 
+
+Furthermore, you can access our training code in this repository [**MFTCoder**](https://github.com/codefuse-ai/MFTCoder), which enables efficient fine-tuning for multi-task, multi-model, and multi-architecture scenarios.
+
+Additionally, you can access our optimized high-performance inference code in this repository [**FasterTransformer4CodeFuse**](https://github.com/codefuse-ai/FasterTransformer4CodeFuse).
