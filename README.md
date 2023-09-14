@@ -13,7 +13,7 @@
 
 ## About
 
-This is a repository used to show demos of CodeFuse models ([HF Repo](https://huggingface.co/codefuse-ai)|[ModelScope Repo](https://modelscope.cn/organization/codefuse-ai)). 
+This is a repository used to show demos of CodeFuse models (More information can be found [**Here**](https://github.com/codefuse-ai)). 
 So far, we have provided both a video demo and an online interactive demo, allowing you to observe the interaction with CodeFuse models and give them a try.
 
 ## Demo Video
