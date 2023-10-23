@@ -1,7 +1,7 @@
 # CodeFuse
 
 <p align="left">
-  <img src="assets/LOGO.png" width="100%" />
+  <img src="assets/LOGO.png" width="50%" />
 </p>
 
 
