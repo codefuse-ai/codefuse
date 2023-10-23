@@ -1,6 +1,6 @@
 # CodeFuse
 
-<p align="left">
+<p align="center">
   <img src="assets/LOGO.png" width="50%" />
 </p>
 
