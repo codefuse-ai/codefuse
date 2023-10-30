@@ -43,12 +43,12 @@ We listed repositories according to the lifecycle above.
 
 | ModelName               | Short Description | Modele Linls | 
 |:------------------------:|:-----------------:|:-----------------:|
-| CodeFuse-13B     | Training from scratch |     HF ; MS  | 
-| CodeFuse-CodeLLaMA-34B    |    Finetuning on CodeLLaMA-34B  |      HF ; MS  | 
-| CodeFuse-CodeLLaMA-34B-4bits |  4bits quantized 34B model            |     HF ; MS  | 
-| CodeFuse-StarCoder-15B    | Finetuning on StarCoder-15B |      HF ; MS  | 
-| CodeFuse-Qwen-14B    | Finetuning on Qwen-14B           |      HF ; MS  | 
-| CodeFuse-TestGPT-7B    |   FineTuning on CodeLLaMA-7B   |      HF ; MS  | 
+| CodeFuse-13B     | Training from scratch by CodeFuse | [HF](https://huggingface.co/codefuse-ai/CodeFuse-13B) ; [MS](https://modelscope.cn/models/codefuse-ai/CodeFuse-13B/summary)  | 
+| CodeFuse-CodeLLaMA-34B    |    Finetuning on CodeLLaMA-34B  | [HF](https://huggingface.co/codefuse-ai/CodeFuse-CodeLlama-34B) ; [MS](https://modelscope.cn/models/codefuse-ai/CodeFuse-CodeLlama-34B/summary)  | 
+| ** CodeFuse-CodeLLaMA-34B-4bits |  4bits quantized 34B model |[HF](CodeFuse-CodeLlama-34B-4bits) ; [MS](https://modelscope.cn/models/codefuse-ai/CodeFuse-CodeLlama-34B-4bits/summary)  | 
+| CodeFuse-StarCoder-15B    | Finetuning on StarCoder-15B | [HF](https://huggingface.co/codefuse-ai/CodeFuse-StarCoder-15B) ; [MS](https://modelscope.cn/models/codefuse-ai/CodeFuse-StarCoder-15B/summary)  | 
+| CodeFuse-Qwen-14B    | Finetuning on Qwen-14B           | [HF](https://huggingface.co/codefuse-ai/CodeFuse-QWen-14B) ; [MS](https://modelscope.cn/models/codefuse-ai/CodeFuse-QWen-14B/summary)  | 
+| CodeFuse-TestGPT-7B    |   FineTuning on CodeLLaMA-7B   | [HF](https://huggingface.co/codefuse-ai/CodeFuse-TestGPT-7B) ; [MS](https://modelscope.cn/models/codefuse-ai/TestGPT-7B/summary)  | 
 
 
 ## Demos
