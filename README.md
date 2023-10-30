@@ -27,8 +27,8 @@ CodeFuse aims to develop Code Large Language Models (Code LLMs) to support and e
 
 We listed projects according to the lifecycle above. 
 | LifeCycle Stage               | Project Repository|  Description | 
-|:------------------------:|:-----------------:|:-------:|:-------:|
-| Project Copilot     |    NA             |     NA  |   NA    | 
+|:------------------------:|:-----------------:|:-------:|
+| Project Copilot     |    NA             |     NA  | 
 | Code Copilot        |[MFTCoder](https://github.com/codefuse-ai/MFTCoder) | Instruction-Tuning Framework  |
 |                     |[FastTransformer4CodeFuse](https://github.com/codefuse-ai/FasterTransformer4CodeFuse) | FT based Inference Engine | 
 |                     |[CodeFuse-Eval](https://github.com/codefuse-ai/codefuse-evaluation)|Evaluation kits for CodeFuse |   
