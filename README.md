@@ -23,9 +23,9 @@ CodeFuse aims to develop Code Large Language Models (Code LLMs) to support and e
 </p>
 <br/>
 
-## List of CodeFuse Projects
+## List of CodeFuse Repositories
 
-We listed projects according to the lifecycle above. 
+We listed repositories according to the lifecycle above. 
 | LifeCycle Stage               | Project Repository|  Repo-Description | 
 |:------------------------:|:-----------------:|:-------:|
 | Project Copilot     |    NA             |     NA  | 
@@ -40,6 +40,7 @@ We listed projects according to the lifecycle above.
 |                     |This Repo |General Introduction & index of CodeFuse Repos| 
 
 ## List of CodeFuse Released Models
+
 | ModelName               | Short Description | Modele Linls | 
 |:------------------------:|:-----------------:|:-----------------:|
 | CodeFuse-13B     | Training from scratch |     HF ; MS  | 
