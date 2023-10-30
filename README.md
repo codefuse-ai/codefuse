@@ -1,4 +1,4 @@
-# CodeFuse
+# Index of CodeFuse Project
 
 <p align="center">
   <img src="assets/LOGO.png" width="50%" />
