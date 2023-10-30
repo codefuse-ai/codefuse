@@ -26,7 +26,7 @@ CodeFuse aims to develop Code Large Language Models (Code LLMs) to support and e
 ## List of CodeFuse Projects
 
 We listed projects according to the lifecycle above. 
-| LifeCycle Stage               | Project Repository|  Description | 
+| LifeCycle Stage               | Project Repository|  Repo-Description | 
 |:------------------------:|:-----------------:|:-------:|
 | Project Copilot     |    NA             |     NA  | 
 | Code Copilot        |[MFTCoder](https://github.com/codefuse-ai/MFTCoder) | Instruction-Tuning Framework  |
@@ -40,6 +40,14 @@ We listed projects according to the lifecycle above.
 |                     |This Repo |General Introduction & index of CodeFuse Repos| 
 
 ## List of CodeFuse Released Models
+| ModelName               | Short Description | Huggingface Links|  ModelScope Linls | 
+|:------------------------:|:-----------------:|:-----------------:|:-------:|
+| CodeFuse-13B     | Training from scratch |     HF |      MS  | 
+| CodeFuse-CodeLLaMA-34B    |    Finetuning based on CodeLLaMA-34B  |     HF |      MS  | 
+| CodeFuse-CodeLLaMA-34B-4bits |   4bits quantized models            |     HF |      MS  | 
+| CodeFuse-StarCoder-15B    | Finetuning based on StarCoder-15B |     HF |      MS  | 
+| CodeFuse-Qwen-14B    | Finetuning based on Qwen-14B           |     HF |      MS  | 
+| CodeFuse-TestGPT-7B    |    NA             |     HF |      MS  | 
 
 
 ## Demos
