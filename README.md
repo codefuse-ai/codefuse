@@ -35,8 +35,6 @@ We listed projects according to the lifecycle above.
 | Test&Build Copilot  |[TestAgent](https://github.com/codefuse-ai/Test-Agent) | TestGPT demo frontend  |   NA   |NA   |
 | Ops Copilot         |[DevOps-Eval](https://github.com/codefuse-ai/codefuse-devops-eval)|Benchmark for DevOps|   NA   |   NA   |
 |                     |[DevOps-Model](https://github.com/codefuse-ai/CodeFuse-DevOps-Model) |index for DevOps  models|   NA   |   NA   |
-|                     |    NA              |     NA   |   NA   |   NA   |
-|                     |    NA              |     NA   |   NA   |   NA   |
 | Data Copilot        |    NA              |     NA   |   NA   |   NA   |
 | Auxilary Modules    |[ChatBot](https://github.com/codefuse-ai/codefuse-chatbot) |General chatbot frontend for CodeFuse |   NA   |   NA   |
 
