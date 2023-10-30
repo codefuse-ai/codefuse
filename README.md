@@ -26,18 +26,20 @@ CodeFuse aims to develop Code Large Language Models (Code LLMs) to support and e
 ## List of CodeFuse Projects
 
 We listed projects according to the lifecycle above. 
-| Stage               | Project Repository|  Description | Reference Models | 
+| LifeCycle Stage               | Project Repository|  Description | 
 |:------------------------:|:-----------------:|:-------:|:-------:|
 | Project Copilot     |    NA             |     NA  |   NA    | 
-| Code Copilot        |[MFTCoder](https://github.com/codefuse-ai/MFTCoder) | Instruction-Tuning Framework  |[CodeFuse-34B](https://huggingface.co/codefuse-ai/CodeFuse-CodeLlama-34B-4bits)   |
-|                     |[FastTransformer4CodeFuse](https://github.com/codefuse-ai/FasterTransformer4CodeFuse) | FT based Inference Engine | MA |
-|                     |[CodeFuse-Eval](https://github.com/codefuse-ai/codefuse-evaluation)|Evaluation kits for CodeFuse |   NA   |
-| Test&Build Copilot  |[TestAgent](https://github.com/codefuse-ai/Test-Agent) | TestGPT demo frontend  |   NA   |
-| Ops Copilot         |[DevOps-Eval](https://github.com/codefuse-ai/codefuse-devops-eval)|Benchmark for DevOps|   NA   | 
-|                     |[DevOps-Model](https://github.com/codefuse-ai/CodeFuse-DevOps-Model) |index for DevOps  models|   NA   | 
-| Data Copilot        |    NA              |     NA   |   NA   | 
-| Auxilary Modules    |[ChatBot](https://github.com/codefuse-ai/codefuse-chatbot) |General chatbot frontend for CodeFuse |   NA   | 
-|                     |This Repo |General Introduction & index of CodeFuse Repos|   NA   |
+| Code Copilot        |[MFTCoder](https://github.com/codefuse-ai/MFTCoder) | Instruction-Tuning Framework  |
+|                     |[FastTransformer4CodeFuse](https://github.com/codefuse-ai/FasterTransformer4CodeFuse) | FT based Inference Engine | 
+|                     |[CodeFuse-Eval](https://github.com/codefuse-ai/codefuse-evaluation)|Evaluation kits for CodeFuse |   
+| Test&Build Copilot  |[TestAgent](https://github.com/codefuse-ai/Test-Agent) | TestGPT demo frontend  |  
+| Ops Copilot         |[DevOps-Eval](https://github.com/codefuse-ai/codefuse-devops-eval)|Benchmark for DevOps|   
+|                     |[DevOps-Model](https://github.com/codefuse-ai/CodeFuse-DevOps-Model) |index for DevOps  models|   
+| Data Copilot        |    NA              |     NA   | 
+| Auxilary Modules    |[ChatBot](https://github.com/codefuse-ai/codefuse-chatbot) |General chatbot frontend for CodeFuse | 
+|                     |This Repo |General Introduction & index of CodeFuse Repos| 
+
+## List of CodeFuse Released Models
 
 
 ## Demos
