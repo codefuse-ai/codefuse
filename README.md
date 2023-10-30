@@ -26,17 +26,19 @@ CodeFuse aims to develop Code Large Language Models (Code LLMs) to support and e
 ## List of CodeFuse Projects
 
 We listed projects according to the lifecycle above. 
-| Stage                       | Project Repository|  Models   | Datasets   | 
-|:----------------------------|:-----------------:|:-------:|:-------:|
-| Project Copilot     |    NA      |     NA   |   NA   |
-| Code Copilot        |[MFTCoder](https://github.com/codefuse-ai/MFTCoder)      |     NA   |   NA   |
-|                     |    NA      |     NA   |   NA   |
-|                     |    NA      |     NA   |   NA   |
-|                     |    NA      |     NA   |   NA   |
-| Test&Build Copilot  |    NA      |     NA   |   NA   |
-| Ops Copilot         |    NA      |     NA   |   NA   |
-| Data Copilot        |    NA      |     NA   |   NA   |
-| Auxilary Modules    |    NA      |     NA   |   NA   |
+| Stage               | Project Repository|  Description |  Models   | Datasets   | 
+|:--------------------|:-----------------:|:-------:|:-------:|:-------:|
+| Project Copilot     |    NA             |     NA  |   NA    |   NA   |
+| Code Copilot        |[MFTCoder](https://github.com/codefuse-ai/MFTCoder) | Instruction-Tuning Framework  |   NA   |   NA   |
+|                     |[FastTransformer3CodeFuse](https://github.com/codefuse-ai/FasterTransformer4CodeFuse) | Inference Accleration |   NA   |NA   |
+|                     |[CodeFuse-Eval](https://github.com/codefuse-ai/codefuse-evaluation)|Evaluation kits for CodeFuse |   NA   |NA   |
+| Test&Build Copilot  |[TestAgent](https://github.com/codefuse-ai/Test-Agent) | TestGPT demo frontend  |   NA   |NA   |
+| Ops Copilot         |[DevOps-Eval](https://github.com/codefuse-ai/codefuse-devops-eval)|Benchmark for DevOps|   NA   |   NA   |
+|                     |[DevOps-Model](https://github.com/codefuse-ai/CodeFuse-DevOps-Model) |index for DevOps  models|   NA   |   NA   |
+|                     |    NA              |     NA   |   NA   |   NA   |
+|                     |    NA              |     NA   |   NA   |   NA   |
+| Data Copilot        |    NA              |     NA   |   NA   |   NA   |
+| Auxilary Modules    |[ChatBot](https://github.com/codefuse-ai/codefuse-chatbot) |General chatbot frontend for CodeFuse |   NA   |   NA   |
 
 
 ## Video Demos
