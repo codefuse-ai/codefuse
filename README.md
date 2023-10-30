@@ -40,17 +40,12 @@ We listed projects according to the lifecycle above.
 |                     |This Repo |General Introduction & index of CodeFuse Repos|   NA   |
 
 
+## Demos
 
-## Video Demos
+ - Video demos: Chinese version at below, English version under preparation. 
+   https://user-images.githubusercontent.com/103973989/267514150-21012a5d-652d-4aea-bcea-582e67855ad7.mp4
 
-*Please note that the English version is under preparation. We appreciate your understanding and patience.*
-
-https://user-images.githubusercontent.com/103973989/267514150-21012a5d-652d-4aea-bcea-582e67855ad7.mp4
-
-
-## Online Demo
-
-- You can try our CodeFuse-CodeLlama-34B model on ModelScope: [CodeFuse-CodeLlama34B-MFT-Demo](https://modelscope.cn/studios/codefuse-ai/CodeFuse-CodeLlama34B-MFT-Demo/summary)
+ - Online Demo: You can try our CodeFuse-CodeLlama-34B model on ModelScope: [CodeFuse-CodeLlama34B-MFT-Demo](https://modelscope.cn/studios/codefuse-ai/CodeFuse-CodeLlama34B-MFT-Demo/summary)
 
 ![Online Demo Snapshot](assets/modelscope_demo2.png)
 
@@ -58,8 +53,20 @@ https://user-images.githubusercontent.com/103973989/267514150-21012a5d-652d-4aea
 
 ## How to get
 
-If you are interested in them, you can download our open-source models from [**HF Repo**](https://huggingface.co/codefuse-ai) or [**ModelScope Repo**](https://modelscope.cn/organization/codefuse-ai). 
+- [**Huggingface Repo**](https://huggingface.co/codefuse-ai).
+- [**ModelScope Repo**](https://modelscope.cn/organization/codefuse-ai).
+- Train or finetuning on your own models, you can try our [**MFTCoder**](https://github.com/codefuse-ai/MFTCoder), which enables efficient fine-tuning for multi-task, multi-model, and multi-training-framework scenarios.
 
-Furthermore, you can access our training code in this repository [**MFTCoder**](https://github.com/codefuse-ai/MFTCoder), which enables efficient fine-tuning for multi-task, multi-model, and multi-architecture scenarios.
+## Articles or References
 
-Additionally, you can access our optimized high-performance inference code in this repository [**FasterTransformer4CodeFuse**](https://github.com/codefuse-ai/FasterTransformer4CodeFuse).
+For more details about our techniques, please refere to our tech-reports/papers below. 
+- MFTCoder:
+
+If you use our codes or models, or feel our project useful for your research works, please cite our paper as below.
+@article{codefuse2023,
+  title={},
+  author={},
+  journal={arXiv preprint arXiv},
+  year={2023}
+}
+
