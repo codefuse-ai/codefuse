@@ -13,10 +13,33 @@
 
 ## About
 
-This is a repository used to show demos of CodeFuse models (More information can be found [**Here**](https://github.com/codefuse-ai)). 
-So far, we have provided both a video demo and an online interactive demo, allowing you to observe the interaction with CodeFuse models and give them a try.
+This repository lists key projects and related demos about CodeFuse. 
 
-## Demo Video
+## About CodeFuse
+
+CodeFuse aims to develop Code Large Language Models (Code LLMs) to support and enhance full-lifecycle AI native sotware developing, covering crucial stages such as design requirements, coding, testing, building, deployment, operations, and insight analysis. Below is the overall framework of CodeFuse. 
+<p align="center">
+  <img src="https://github.com/codefuse-ai/.github/assets/82250814/9c8cd9f3-b1ca-43a1-9b0f-8f612b06753e" width="90%" />
+</p>
+<br/>
+
+## List of CodeFuse Projects
+
+We listed projects according to the lifecycle above. 
+| Stage                       | Project Repository|  Models   | Datasets   | 
+|:----------------------------|:-----------------:|:-------:|:-------:|
+| Project Copilot     |    NA      |     NA   |   NA   |
+| Code Copilot        |[MFTCoder](https://github.com/codefuse-ai/MFTCoder)      |     NA   |   NA   |
+|                     |    NA      |     NA   |   NA   |
+|                     |    NA      |     NA   |   NA   |
+|                     |    NA      |     NA   |   NA   |
+| Test&Build Copilot  |    NA      |     NA   |   NA   |
+| Ops Copilot         |    NA      |     NA   |   NA   |
+| Data Copilot        |    NA      |     NA   |   NA   |
+| Auxilary Modules    |    NA      |     NA   |   NA   |
+
+
+## Video Demos
 
 *Please note that the English version is under preparation. We appreciate your understanding and patience.*
 
@@ -25,9 +48,11 @@ https://user-images.githubusercontent.com/103973989/267514150-21012a5d-652d-4aea
 
 ## Online Demo
 
-You can try our CodeFuse-CodeLlama-34B model on ModelScope: [CodeFuse-CodeLlama34B-MFT-Demo](https://modelscope.cn/studios/codefuse-ai/CodeFuse-CodeLlama34B-MFT-Demo/summary)
+- You can try our CodeFuse-CodeLlama-34B model on ModelScope: [CodeFuse-CodeLlama34B-MFT-Demo](https://modelscope.cn/studios/codefuse-ai/CodeFuse-CodeLlama34B-MFT-Demo/summary)
 
 ![Online Demo Snapshot](assets/modelscope_demo2.png)
+
+- You can also try to install the [CodeFuse-Chatbot](https://github.com/codefuse-ai/codefuse-chatbot) to test our models locally. 
 
 ## How to get
 
