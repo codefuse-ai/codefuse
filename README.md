@@ -75,11 +75,13 @@ For more technique details about CodeFuse, please refere to our paper [MFTCoder]
 
 If you find our work useful or helpful for your R&D works, please feel free to cite our paper as below.
 ```
-@article{codefuse2023,
-  title={},
-  author={},
-  journal={arXiv preprint arXiv},
-  year={2023}
+@article{mftcoder2023,
+      title={MFTCoder: Boosting Code LLMs with Multitask Fine-Tuning}, 
+      author={Bingchang Liu and Chaoyu Chen and Cong Liao and Zi Gong and Huan Wang and Zhichao Lei and Ming Liang and Dajun Chen and Min Shen and Hailian Zhou and Hang Yu and Jianguo Li},
+      year={2023},
+      journal={arXiv preprint arXiv},
+      archivePrefix={arXiv},
+      eprint={2311.02303}
 }
 ```
 
