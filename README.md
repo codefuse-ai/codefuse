@@ -69,12 +69,11 @@ We listed repositories according to the lifecycle above.
 - [**ModelScope Repo**](https://modelscope.cn/organization/codefuse-ai).
 - Train or finetuning on your own models, you can try our [**MFTCoder**](https://github.com/codefuse-ai/MFTCoder), which enables efficient fine-tuning for multi-task, multi-model, and multi-training-framework scenarios.
 
-## References
+## Citation
 
-For more details about techniques of CodeFuse, please refere to our tech-reports/papers below. 
-- MFTCoder:
+For more technique details about CodeFuse, please refere to our paper [MFTCoder](https://arxiv.org/abs/2311.02303).
 
-If you use our codes or models, or feel our project useful for your research works, please cite our paper as below.
+If you find our work useful or helpful for your R&D works, please feel free to cite our paper as below.
 ```
 @article{codefuse2023,
   title={},
@@ -82,4 +81,5 @@ If you use our codes or models, or feel our project useful for your research wor
   journal={arXiv preprint arXiv},
   year={2023}
 }
+```
 
