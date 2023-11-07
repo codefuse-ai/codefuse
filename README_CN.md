@@ -69,15 +69,14 @@ CodeFuse的使命是开发专门设计用于支持整个软件开发生命周期
 - 对于自有或者自己感兴趣的模型，可以使用我们的[**MFTCoder**](https://github.com/codefuse-ai/MFTCoder)框架微调训练，它是一个支持多模型、多任务、多训练平台的微调框架.
 
 ## 参考文献
-
-如需了解更多技术细节，可以参考我们的技术报告/论文. 
-- MFTCoder:
-
-如果你觉得我们的代码或者模型有用，或则给你的工作提供了一些有价值的参考，请引用我们的如下论文
+如果你觉得本项目对你有帮助，请引用下述论文:
 ```
-@article{codefuse2023,
-  title={},
-  author={},
-  journal={arXiv preprint arXiv},
-  year={2023}
+@article{mftcoder2023,
+      title={MFTCoder: Boosting Code LLMs with Multitask Fine-Tuning}, 
+      author={Bingchang Liu and Chaoyu Chen and Cong Liao and Zi Gong and Huan Wang and Zhichao Lei and Ming Liang and Dajun Chen and Min Shen and Hailian Zhou and Hang Yu and Jianguo Li},
+      year={2023},
+      journal={arXiv preprint arXiv},
+      archivePrefix={arXiv},
+      eprint={2311.02303}
 }
+```
