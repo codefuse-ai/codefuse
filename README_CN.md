@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[ **English** ](./README.md)|[ **HF Repo** ](https://huggingface.co/codefuse-ai)|[ **魔搭社区** ](https://modelscope.cn/organization/codefuse-ai) | [**产品主页**](https://codefuse.alipay.com) 
+[ **English** ](./README.md)|[ **HuggingFace** ](https://huggingface.co/codefuse-ai)|[ **魔搭社区** ](https://modelscope.cn/organization/codefuse-ai) |[ **WiseModel** ](https://www.wisemodel.cn/organization/codefuse-ai) [**产品主页**](https://codefuse.alipay.com) 
 
 </div>
 
