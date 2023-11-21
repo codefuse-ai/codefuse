@@ -1,4 +1,4 @@
-# Index of CodeFuse Project
+# Index of CodeFuse Repositories
 
 <p align="center">
   <img src="assets/LOGO.png" width="50%" />
@@ -36,8 +36,10 @@ We listed repositories according to the lifecycle above.
 | Ops Copilot         |[DevOps-Eval](https://github.com/codefuse-ai/codefuse-devops-eval)|Benchmark for DevOps|   
 |                     |[DevOps-Model](https://github.com/codefuse-ai/CodeFuse-DevOps-Model) |index for DevOps  models|   
 | Data Copilot        |    NA              |     NA   | 
-| Auxilary Modules    |[ChatBot](https://github.com/codefuse-ai/codefuse-chatbot) |General chatbot frontend for CodeFuse | 
-|                     |[ModelCache](https://github.com/codefuse-ai/CodeFuse-ModelCache) |Semantic Cache for LLM Serving | 
+| Others              |[ChatBot](https://github.com/codefuse-ai/codefuse-chatbot) |General chatbot frontend for CodeFuse | 
+|                     |[ModelCache](https://github.com/codefuse-ai/CodeFuse-ModelCache) |Semantic Cache for LLM Serving  | 
+|                     |[CoCA]([https://github.com/codefuse-ai/Collinear-Constrained-Attention)|Colinear Attention | 
+|                     |[Awesine-Code-LLM]([https://github.com/codefuse-ai/Awesome-Code-LLM)|Code-LLM Survey| 
 |                     |This Repo |General Introduction & index of CodeFuse Repos| 
 
 ## List of CodeFuse Released Models
@@ -49,6 +51,9 @@ We listed repositories according to the lifecycle above.
 | ** CodeFuse-CodeLLaMA-34B-4bits |  4bits quantized 34B model |[HF](CodeFuse-CodeLlama-34B-4bits) ; [MS](https://modelscope.cn/models/codefuse-ai/CodeFuse-CodeLlama-34B-4bits/summary)  | 
 | CodeFuse-StarCoder-15B    | Finetuning on StarCoder-15B | [HF](https://huggingface.co/codefuse-ai/CodeFuse-StarCoder-15B) ; [MS](https://modelscope.cn/models/codefuse-ai/CodeFuse-StarCoder-15B/summary)  | 
 | CodeFuse-Qwen-14B    | Finetuning on Qwen-14B           | [HF](https://huggingface.co/codefuse-ai/CodeFuse-QWen-14B) ; [MS](https://modelscope.cn/models/codefuse-ai/CodeFuse-QWen-14B/summary)  | 
+| CodeFuse-CodeGeeX2-6B    | Finetuning on CodeGeeX2-6B           | [HF](https://huggingface.co/codefuse-ai/CodeFuse-CodeGeeX2-6B) ; [MS](https://modelscope.cn/models/codefuse-ai/CodeFuse-CodeGeeX2-6B/summary)  | 
+| CodeFuse-DevOps-14B-Chat  | Finetuning on DevOps-14B           | [HF](https://huggingface.co/codefuse-ai/CodeFuse-DevOps-Model-14B-Chat) ; [MS](https://modelscope.cn/models/codefuse-ai/CodeFuse-DevOps-Model-14B-Chat/summary)  | 
+| CodeFuse-DevOps-14B-Base    | Continue trianing on Qwen-14B           | [HF](https://huggingface.co/codefuse-ai/CodeFuse-DevOps-Model-14B-Base) ; [MS](https://modelscope.cn/models/codefuse-ai/CodeFuse-DevOps-Model-14B-Base/summary)  | 
 | CodeFuse-TestGPT-7B    |   FineTuning on CodeLLaMA-7B   | [HF](https://huggingface.co/codefuse-ai/CodeFuse-TestGPT-7B) ; [MS](https://modelscope.cn/models/codefuse-ai/TestGPT-7B/summary)  | 
 
 
