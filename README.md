@@ -72,7 +72,7 @@ We listed repositories according to the lifecycle above.
 
 - [**HuggingFace**](https://huggingface.co/codefuse-ai).
 - [**ModelScope**](https://modelscope.cn/organization/codefuse-ai).
-- - [**WiseModel**](https://wisemodel.cn/organization/codefuse-ai).
+- [**WiseModel**](https://wisemodel.cn/organization/codefuse-ai).
 - Train or finetuning on your own models, you can try our [**MFTCoder**](https://github.com/codefuse-ai/MFTCoder), which enables efficient fine-tuning for multi-task, multi-model, and multi-training-framework scenarios.
 
 ## Citation
