@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[**简体中文**](./README_CN.md)|[**HF Repo**](https://huggingface.co/codefuse-ai)|[**ModelScope Repo**](https://modelscope.cn/organization/codefuse-ai)
+[**简体中文**](./README_CN.md)|[**HuggingFace**](https://huggingface.co/codefuse-ai)|[**ModelScope**](https://modelscope.cn/organization/codefuse-ai)
 
 </div>
 
