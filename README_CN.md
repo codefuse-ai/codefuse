@@ -36,7 +36,9 @@ CodeFuse的使命是开发专门设计用于支持整个软件开发生命周期
 | 运维Copilot         |[DevOps-Eval](https://github.com/codefuse-ai/codefuse-devops-eval)|DevOps评测集和框架 |   
 |                     |[DevOps-Model](https://github.com/codefuse-ai/CodeFuse-DevOps-Model) |DevOps模型列表介绍 |   
 | 数据Copilot        |    NA              |     NA   | 
-| 辅助模块   |[ChatBot](https://github.com/codefuse-ai/codefuse-chatbot) |通用chatbot前端 | 
+| 其他模块   |[ChatBot](https://github.com/codefuse-ai/codefuse-chatbot) |通用chatbot前端 | 
+|                     |[CoCA]([https://github.com/codefuse-ai/Collinear-Constrained-Attention)|共线约束注意力算法 | 
+|                     |[Awesine-Code-LLM]([https://github.com/codefuse-ai/Awesome-Code-LLM)|代码大模型survey主页 | 
 |                     |你正在看的仓库 | CodeFuse通用介绍和索引 | 
 
 ## CodeFuse已发布模型索引
@@ -48,6 +50,9 @@ CodeFuse的使命是开发专门设计用于支持整个软件开发生命周期
 | ** CodeFuse-CodeLLaMA-34B-4bits |  34B模型的4bits量化版 |[HF](CodeFuse-CodeLlama-34B-4bits) ; [MS](https://modelscope.cn/models/codefuse-ai/CodeFuse-CodeLlama-34B-4bits/summary)  | 
 | CodeFuse-StarCoder-15B    | 基于StarCoder-15B微调的模型 | [HF](https://huggingface.co/codefuse-ai/CodeFuse-StarCoder-15B) ; [MS](https://modelscope.cn/models/codefuse-ai/CodeFuse-StarCoder-15B/summary)  | 
 | CodeFuse-Qwen-14B    | 基于Qwen-14B微调的模型    | [HF](https://huggingface.co/codefuse-ai/CodeFuse-QWen-14B) ; [MS](https://modelscope.cn/models/codefuse-ai/CodeFuse-QWen-14B/summary)  | 
+| CodeFuse-CodeGeeX2-6B    | 基于CodeGeeX2-6B微调的模型           | [HF](https://huggingface.co/codefuse-ai/CodeFuse-CodeGeeX2-6B) ; [MS](https://modelscope.cn/models/codefuse-ai/CodeFuse-CodeGeeX2-6B/summary)  | 
+| CodeFuse-DevOps-14B-Chat  | 在DevOps-14B上微调的模型          | [HF](https://huggingface.co/codefuse-ai/CodeFuse-DevOps-Model-14B-Chat) ; [MS](https://modelscope.cn/models/codefuse-ai/CodeFuse-DevOps-Model-14B-Chat/summary)  | 
+| CodeFuse-DevOps-14B-Base    | 在Qwen-14B上加训DevOps相关数据的Base模型        | [HF](https://huggingface.co/codefuse-ai/CodeFuse-DevOps-Model-14B-Base) ; [MS](https://modelscope.cn/models/codefuse-ai/CodeFuse-DevOps-Model-14B-Base/summary)  | 
 | CodeFuse-TestGPT-7B    | 基于CodeLLaMA-7B微调的用于测试的模型 | [HF](https://huggingface.co/codefuse-ai/CodeFuse-TestGPT-7B) ; [MS](https://modelscope.cn/models/codefuse-ai/TestGPT-7B/summary)  | 
 
 
