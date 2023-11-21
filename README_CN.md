@@ -69,8 +69,9 @@ CodeFuse的使命是开发专门设计用于支持整个软件开发生命周期
 
 ## 如何获得
 
-- HF模型社区[**Huggingface Repo**](https://huggingface.co/codefuse-ai).
-- 魔搭社区[**ModelScope Repo**](https://modelscope.cn/organization/codefuse-ai).
+- HF模型社区[**HuggingFace**](https://huggingface.co/codefuse-ai).
+- 魔搭社区[**ModelScope**](https://modelscope.cn/organization/codefuse-ai).
+- WiseModel社区[**WiseModel**](https://wisemodel.cn/organization/codefuse-ai).
 - 对于自有或者自己感兴趣的模型，可以使用我们的[**MFTCoder**](https://github.com/codefuse-ai/MFTCoder)框架微调训练，它是一个支持多模型、多任务、多训练平台的微调框架.
 
 ## 参考文献
