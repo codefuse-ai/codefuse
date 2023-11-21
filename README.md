@@ -38,8 +38,8 @@ We listed repositories according to the lifecycle above.
 | Data Copilot        |    NA              |     NA   | 
 | Others              |[ChatBot](https://github.com/codefuse-ai/codefuse-chatbot) |General chatbot frontend for CodeFuse | 
 |                     |[ModelCache](https://github.com/codefuse-ai/CodeFuse-ModelCache) |Semantic Cache for LLM Serving  | 
-|                     |[CoCA]([https://github.com/codefuse-ai/Collinear-Constrained-Attention)|Colinear Attention | 
-|                     |[Awesine-Code-LLM]([https://github.com/codefuse-ai/Awesome-Code-LLM)|Code-LLM Survey| 
+|                     |[CoCA](https://github.com/codefuse-ai/Collinear-Constrained-Attention)|Colinear Attention | 
+|                     |[Awesine-Code-LLM](https://github.com/codefuse-ai/Awesome-Code-LLM)|Code-LLM Survey| 
 |                     |This Repo |General Introduction & index of CodeFuse Repos| 
 
 ## List of CodeFuse Released Models
