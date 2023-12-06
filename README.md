@@ -59,7 +59,8 @@ We listed repositories according to the lifecycle above.
 
 ## Demos
 
- - Video demos: Chinese version at below, English version under preparation. 
+ - Video demos: Chinese version at below, English version under preparation.
+
    https://user-images.githubusercontent.com/103973989/267514150-21012a5d-652d-4aea-bcea-582e67855ad7.mp4
 
  - Online Demo: You can try our CodeFuse-CodeLlama-34B model on ModelScope: [CodeFuse-CodeLlama34B-MFT-Demo](https://modelscope.cn/studios/codefuse-ai/CodeFuse-CodeLlama34B-MFT-Demo/summary)
@@ -77,9 +78,9 @@ We listed repositories according to the lifecycle above.
 
 ## Citation
 
-For more technique details about CodeFuse, please refere to our paper [MFTCoder](https://arxiv.org/abs/2311.02303).
+For more technique details about CodeFuse, please refer to our paper [MFTCoder](https://arxiv.org/abs/2311.02303).
 
-If you find our work useful or helpful for your R&D works, please feel free to cite our paper as below.
+If you find our work useful or helpful for your R&D work, please feel free to cite our paper as follows.
 ```
 @article{mftcoder2023,
       title={MFTCoder: Boosting Code LLMs with Multitask Fine-Tuning}, 
