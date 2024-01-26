@@ -40,6 +40,7 @@ We listed repositories according to the lifecycle above.
 |                     |[ModelCache](https://github.com/codefuse-ai/CodeFuse-ModelCache) |Semantic Cache for LLM Serving  | 
 |                     |[CoCA](https://github.com/codefuse-ai/Collinear-Constrained-Attention)|Colinear Attention | 
 |                     |[Awesine-Code-LLM](https://github.com/codefuse-ai/Awesome-Code-LLM)|Code-LLM Survey| 
+|                     |[CodeFuse-Query](https://github.com/codefuse-ai/CodeFuse-Query)|Query-Based Code Analysis Engine | 
 |                     |This Repo |General Introduction & index of CodeFuse Repos| 
 
 ## List of CodeFuse Released Models

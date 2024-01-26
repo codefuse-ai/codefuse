@@ -39,6 +39,7 @@ CodeFuse的使命是开发专门设计用于支持整个软件开发生命周期
 | 其他模块   |[ChatBot](https://github.com/codefuse-ai/codefuse-chatbot) |通用chatbot前端 | 
 |                     |[CoCA](https://github.com/codefuse-ai/Collinear-Constrained-Attention)|共线约束注意力算法 | 
 |                     |[Awesine-Code-LLM](https://github.com/codefuse-ai/Awesome-Code-LLM)|代码大模型survey主页 | 
+|                     |[CodeFuse-Query](https://github.com/codefuse-ai/CodeFuse-Query)| 基于查询的代码分析引擎 | 
 |                     |你正在看的仓库 | CodeFuse通用介绍和索引 | 
 
 ## CodeFuse已发布模型索引
