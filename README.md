@@ -56,6 +56,9 @@ We listed repositories according to the lifecycle above.
 | CodeFuse-DevOps-14B-Chat  | Finetuning on DevOps-14B           | [HF](https://huggingface.co/codefuse-ai/CodeFuse-DevOps-Model-14B-Chat) ; [MS](https://modelscope.cn/models/codefuse-ai/CodeFuse-DevOps-Model-14B-Chat/summary)  | 
 | CodeFuse-DevOps-14B-Base    | Continue trianing on Qwen-14B           | [HF](https://huggingface.co/codefuse-ai/CodeFuse-DevOps-Model-14B-Base) ; [MS](https://modelscope.cn/models/codefuse-ai/CodeFuse-DevOps-Model-14B-Base/summary)  | 
 | CodeFuse-TestGPT-7B    |   FineTuning on CodeLLaMA-7B   | [HF](https://huggingface.co/codefuse-ai/CodeFuse-TestGPT-7B) ; [MS](https://modelscope.cn/models/codefuse-ai/TestGPT-7B/summary)  | 
+| CodeFuse-DeepSeek-33B | FineTuning on DeepSeek-Coder-33b | [HF](https://huggingface.co/codefuse-ai/CodeFuse-DeepSeek-33B) ; [MS](https://modelscope.cn/models/codefuse-ai/CodeFuse-DeepSeek-33B/summary) |
+| CodeFuse-DeepSeek-33B-4bits | 4-bit quantized 33B model | [HF](https://huggingface.co/codefuse-ai/CodeFuse-DeepSeek-33B-4bits) ; [MS](https://modelscope.cn/models/codefuse-ai/CodeFuse-DeepSeek-33B-4bits/summary) |
+| CodeFuse-Mixtral-8x7B | FineTuning on Mixtral-8x7B (MoE) | [HF](https://huggingface.co/codefuse-ai/CodeFuse-Mixtral-8x7B) ; [MS](https://modelscope.cn/models/codefuse-ai/CodeFuse-Mixtral-8x7B/summary) |
 
 
 ## Demos
