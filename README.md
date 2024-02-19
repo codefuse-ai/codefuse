@@ -28,19 +28,19 @@ CodeFuse aims to develop Code Large Language Models (Code LLMs) to support and e
 We listed repositories according to the lifecycle above. 
 | LifeCycle Stage               | Project Repository|  Repo-Description | 
 |:------------------------:|:-----------------:|:-------:|
-| Project Copilot     |    NA             |     NA  | 
-| Code Copilot        |[MFTCoder](https://github.com/codefuse-ai/MFTCoder) | Instruction-Tuning Framework  |
+| Requirement & Design     |[MFT-VLM](https://github.com/codefuse-ai/CodeFuse-MFT-VLM)            | Instruction-fine-tuning for Vision-language tasks  | 
+| Coding        |[MFTCoder](https://github.com/codefuse-ai/MFTCoder) | Instruction-Tuning Framework  |
 |                     |[FastTransformer4CodeFuse](https://github.com/codefuse-ai/FasterTransformer4CodeFuse) | FT based Inference Engine | 
 |                     |[CodeFuse-Eval](https://github.com/codefuse-ai/codefuse-evaluation)|Evaluation kits for CodeFuse |   
-| Test&Build Copilot  |[TestAgent](https://github.com/codefuse-ai/Test-Agent) | TestGPT demo frontend  |  
-| Ops Copilot         |[DevOps-Eval](https://github.com/codefuse-ai/codefuse-devops-eval)|Benchmark for DevOps|   
+| Test & Build  |[TestAgent](https://github.com/codefuse-ai/Test-Agent) | TestGPT demo frontend  |  
+| DevOps         |[DevOps-Eval](https://github.com/codefuse-ai/codefuse-devops-eval)|Benchmark for DevOps|   
 |                     |[DevOps-Model](https://github.com/codefuse-ai/CodeFuse-DevOps-Model) |index for DevOps  models|   
-| Data Copilot        |    NA              |     NA   | 
-| Others              |[ChatBot](https://github.com/codefuse-ai/codefuse-chatbot) |General chatbot frontend for CodeFuse | 
+| Data        |    NA              |     NA   | 
+| Base              |[ChatBot](https://github.com/codefuse-ai/codefuse-chatbot) |General chatbot frontend for CodeFuse | 
 |                     |[ModelCache](https://github.com/codefuse-ai/CodeFuse-ModelCache) |Semantic Cache for LLM Serving  | 
-|                     |[CoCA](https://github.com/codefuse-ai/Collinear-Constrained-Attention)|Colinear Attention | 
-|                     |[Awesine-Code-LLM](https://github.com/codefuse-ai/Awesome-Code-LLM)|Code-LLM Survey| 
 |                     |[CodeFuse-Query](https://github.com/codefuse-ai/CodeFuse-Query)|Query-Based Code Analysis Engine | 
+| Others                     |[CoCA](https://github.com/codefuse-ai/Collinear-Constrained-Attention)|Colinear Attention | 
+|                     |[Awesine-Code-LLM](https://github.com/codefuse-ai/Awesome-Code-LLM)|Code-LLM Survey| 
 |                     |This Repo |General Introduction & index of CodeFuse Repos| 
 
 ## List of CodeFuse Released Models
