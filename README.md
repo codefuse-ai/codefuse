@@ -32,10 +32,10 @@ We listed repositories according to the lifecycle above.
 | Coding        |[MFTCoder](https://github.com/codefuse-ai/MFTCoder) | Instruction-Tuning Framework  |
 |                     |[FastTransformer4CodeFuse](https://github.com/codefuse-ai/FasterTransformer4CodeFuse) | FT based Inference Engine | 
 |                     |[CodeFuse-Eval](https://github.com/codefuse-ai/codefuse-evaluation)|Evaluation kits for CodeFuse |   
-| Test & Build  |[TestAgent](https://github.com/codefuse-ai/Test-Agent) | TestGPT demo frontend  |  
+| Test & Build   |[TestAgent](https://github.com/codefuse-ai/Test-Agent) | TestGPT demo frontend  |  
 | DevOps         |[DevOps-Eval](https://github.com/codefuse-ai/codefuse-devops-eval)|Benchmark for DevOps|   
 |                     |[DevOps-Model](https://github.com/codefuse-ai/CodeFuse-DevOps-Model) |index for DevOps  models|   
-| Data        |    NA              |     NA   | 
+| Data Insight       |    NA              |     NA   | 
 | Base              |[ChatBot](https://github.com/codefuse-ai/codefuse-chatbot) |General chatbot frontend for CodeFuse | 
 |                     |[ModelCache](https://github.com/codefuse-ai/CodeFuse-ModelCache) |Semantic Cache for LLM Serving  | 
 |                     |[CodeFuse-Query](https://github.com/codefuse-ai/CodeFuse-Query)|Query-Based Code Analysis Engine | 
