@@ -23,24 +23,30 @@ CodeFuse的使命是开发专门设计用于支持整个软件开发生命周期
 </p>
 <br/>
 
+## 版本更新
+** 2024.04 ** CodeFuse-muAgent: 多智能体框架, 更多内容见 [Release & Next Release](https://github.com/codefuse-ai/codefuse/issues/12)
+
+<br/>
+
 ## CodeFuse仓库列表
 
 我们按照上图软件生命周期的划分对仓库进行了组织. 
-| 生命周期阶段               | 仓库名 | 仓库简介 | 
-|:------------------------:|:-----------------:|:-------:|
-| 项目Copilot     |    NA             |     NA  | 
-| 数据Copilot        |[MFTCoder](https://github.com/codefuse-ai/MFTCoder) | CodeFuse独有的指令微调框架 |
-|                     |[FastTransformer4CodeFuse](https://github.com/codefuse-ai/FasterTransformer4CodeFuse) | 推理引擎| 
-|                     |[CodeFuse-Eval](https://github.com/codefuse-ai/codefuse-evaluation)|代码评估框架|   
-| 测试和构建Copilot  |[TestAgent](https://github.com/codefuse-ai/Test-Agent) | TestGPT示例前端  |  
-| 运维Copilot         |[DevOps-Eval](https://github.com/codefuse-ai/codefuse-devops-eval)|DevOps评测集和框架 |   
-|                     |[DevOps-Model](https://github.com/codefuse-ai/CodeFuse-DevOps-Model) |DevOps模型列表介绍 |   
-| 数据Copilot        |    NA              |     NA   | 
-| 其他模块   |[ChatBot](https://github.com/codefuse-ai/codefuse-chatbot) |通用chatbot前端 | 
-|                     |[CoCA](https://github.com/codefuse-ai/Collinear-Constrained-Attention)|共线约束注意力算法 | 
-|                     |[Awesine-Code-LLM](https://github.com/codefuse-ai/Awesome-Code-LLM)|代码大模型survey主页 | 
-|                     |[CodeFuse-Query](https://github.com/codefuse-ai/CodeFuse-Query)| 基于查询的代码分析引擎 | 
-|                     |你正在看的仓库 | CodeFuse通用介绍和索引 | 
+| 生命周期阶段               | 仓库名 | 仓库简介 | 技术路线 |
+|:------------------------:|:-----------------:|:-------:|:----------:|
+| 项目Copilot     |    NA             |     NA  |       |
+| 数据Copilot        |[MFTCoder](https://github.com/codefuse-ai/MFTCoder) | CodeFuse独有的指令微调框架 |      |
+|                     |[FastTransformer4CodeFuse](https://github.com/codefuse-ai/FasterTransformer4CodeFuse) | 推理引擎|       |
+|                     |[CodeFuse-Eval](https://github.com/codefuse-ai/codefuse-evaluation)|代码评估框架|         |
+| 测试和构建Copilot  |[TestAgent](https://github.com/codefuse-ai/Test-Agent) | TestGPT示例前端  |        |
+| 运维Copilot         |[DevOps-Eval](https://github.com/codefuse-ai/codefuse-devops-eval)|DevOps评测集和框架 |         |
+|                     |[DevOps-Model](https://github.com/codefuse-ai/CodeFuse-DevOps-Model) |DevOps模型列表介绍 |         |
+| 数据Copilot        |    NA              |     NA   |       |
+| 其他模块   |[ChatBot](https://github.com/codefuse-ai/codefuse-chatbot) |通用chatbot前端 |       |
+|                     |[muAgent](https://github.com/codefuse-ai/CodeFuse-muAgent) | multi-agent框架 |       |
+|                     |[CoCA](https://github.com/codefuse-ai/Collinear-Constrained-Attention)|共线约束注意力算法 |       |
+|                     |[Awesine-Code-LLM](https://github.com/codefuse-ai/Awesome-Code-LLM)|代码大模型survey主页 |       |
+|                     |[CodeFuse-Query](https://github.com/codefuse-ai/CodeFuse-Query)| 基于查询的代码分析引擎 |       |
+|                     |你正在看的仓库 | CodeFuse通用介绍和索引 |       |
 
 ## CodeFuse已发布模型索引
 

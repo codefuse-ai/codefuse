@@ -23,25 +23,31 @@ CodeFuse aims to develop Code Large Language Models (Code LLMs) to support and e
 </p>
 <br/>
 
+
+## Release Update
+** 2024.04 ** CodeFuse-muAgent: a multi-agent framework, more detail see [Release & Next Release](https://github.com/codefuse-ai/codefuse/issues/12)
+
+
 ## List of CodeFuse Repositories
 
 We listed repositories according to the lifecycle above. 
-| LifeCycle Stage               | Project Repository|  Repo-Description | 
-|:------------------------:|:-----------------:|:-------:|
-| Requirement & Design     |[MFT-VLM](https://github.com/codefuse-ai/CodeFuse-MFT-VLM)            | Instruction-fine-tuning for Vision-language tasks  | 
-| Coding        |[MFTCoder](https://github.com/codefuse-ai/MFTCoder) | Instruction-Tuning Framework  |
-|                     |[FastTransformer4CodeFuse](https://github.com/codefuse-ai/FasterTransformer4CodeFuse) | FT based Inference Engine | 
-|                     |[CodeFuse-Eval](https://github.com/codefuse-ai/codefuse-evaluation)|Evaluation kits for CodeFuse |   
-| Test & Build   |[TestAgent](https://github.com/codefuse-ai/Test-Agent) | TestGPT demo frontend  |  
-| DevOps         |[DevOps-Eval](https://github.com/codefuse-ai/codefuse-devops-eval)|Benchmark for DevOps|   
-|                     |[DevOps-Model](https://github.com/codefuse-ai/CodeFuse-DevOps-Model) |index for DevOps  models|   
-| Data Insight       |    NA              |     NA   | 
-| Base              |[ChatBot](https://github.com/codefuse-ai/codefuse-chatbot) |General chatbot frontend for CodeFuse | 
-|                     |[ModelCache](https://github.com/codefuse-ai/CodeFuse-ModelCache) |Semantic Cache for LLM Serving  | 
-|                     |[CodeFuse-Query](https://github.com/codefuse-ai/CodeFuse-Query)|Query-Based Code Analysis Engine | 
-| Others                     |[CoCA](https://github.com/codefuse-ai/Collinear-Constrained-Attention)|Colinear Attention | 
-|                     |[Awesine-Code-LLM](https://github.com/codefuse-ai/Awesome-Code-LLM)|Code-LLM Survey| 
-|                     |This Repo |General Introduction & index of CodeFuse Repos| 
+| LifeCycle Stage               | Project Repository|  Repo-Description | Road Map |
+|:------------------------:|:-----------------:|:-------:|:------------------:|
+| Requirement & Design     |[MFT-VLM](https://github.com/codefuse-ai/CodeFuse-MFT-VLM)            | Instruction-fine-tuning for Vision-language tasks  |       |
+| Coding        |[MFTCoder](https://github.com/codefuse-ai/MFTCoder) | Instruction-Tuning Framework  |      |
+|                     |[FastTransformer4CodeFuse](https://github.com/codefuse-ai/FasterTransformer4CodeFuse) | FT based Inference Engine |       |
+|                     |[CodeFuse-Eval](https://github.com/codefuse-ai/codefuse-evaluation)|Evaluation kits for CodeFuse |         |
+| Test & Build   |[TestAgent](https://github.com/codefuse-ai/Test-Agent) | TestGPT demo frontend  |        |
+| DevOps         |[DevOps-Eval](https://github.com/codefuse-ai/codefuse-devops-eval)|Benchmark for DevOps|         |      |
+|                     |[DevOps-Model](https://github.com/codefuse-ai/CodeFuse-DevOps-Model) |index for DevOps  models|         |
+| Data Insight       |    NA              |     NA   |       |
+| Base              |[ChatBot](https://github.com/codefuse-ai/codefuse-chatbot) |General chatbot frontend for CodeFuse |       |
+|                     |[muAgent](https://github.com/codefuse-ai/CodeFuse-muAgent) | multi-agent framework |       |
+|                     |[ModelCache](https://github.com/codefuse-ai/CodeFuse-ModelCache) |Semantic Cache for LLM Serving  |       |
+|                     |[CodeFuse-Query](https://github.com/codefuse-ai/CodeFuse-Query)|Query-Based Code Analysis Engine |       |
+| Others                     |[CoCA](https://github.com/codefuse-ai/Collinear-Constrained-Attention)|Colinear Attention |       |
+|                     |[Awesine-Code-LLM](https://github.com/codefuse-ai/Awesome-Code-LLM)|Code-LLM Survey|       |
+|                     |This Repo |General Introduction & index of CodeFuse Repos|       |
 
 ## List of CodeFuse Released Models
 
