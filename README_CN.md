@@ -26,6 +26,8 @@ CodeFuse的使命是开发专门设计用于支持整个软件开发生命周期
 ## 版本更新
 ** 2024.04 ** CodeFuse-muAgent: 多智能体框架, 更多内容见 [Release & Next Release](https://github.com/codefuse-ai/codefuse/issues/12)
 
+** 2024.05 **  大模型语义缓存ModelCache v0.2.1版本支持多模态, 见 [CodeFuse-ModelCache](https://github.com/codefuse-ai/CodeFuse-ModelCache). DevOps-Model 支持function call能力，见 [CodeFuse-DevOps-Model](https://github.com/codefuse-ai/CodeFuse-DevOps-Model). , 更多内容见 [Release & Next Release](https://github.com/codefuse-ai/codefuse/issues/14)
+
 <br/>
 
 ## CodeFuse仓库列表

@@ -27,6 +27,7 @@ CodeFuse aims to develop Code Large Language Models (Code LLMs) to support and e
 ## Release Update
 ** 2024.04 ** CodeFuse-muAgent: a multi-agent framework, more detail see [Release & Next Release](https://github.com/codefuse-ai/codefuse/issues/12)
 
+** 2024.05 **  ModelCache releases v0.2.1 with supporting multimodal, see [CodeFuse-ModelCache](https://github.com/codefuse-ai/CodeFuse-ModelCache). DevOps-Model support function call, see [CodeFuse-DevOps-Model](https://github.com/codefuse-ai/CodeFuse-DevOps-Model). More detail see [Release & Next Release](https://github.com/codefuse-ai/codefuse/issues/14)
 
 ## List of CodeFuse Repositories
 
