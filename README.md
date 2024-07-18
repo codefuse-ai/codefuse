@@ -25,6 +25,8 @@ CodeFuse aims to develop Code Large Language Models (Code LLMs) to support and e
 
 
 ## Release Update
+** 2024.07 **  [D2LLM](https://github.com/codefuse-ai/D2LLM) :  Release D2Coder-v1 Embedding model for code search, [RepoFuse](https://github.com/codefuse-ai) :  Repository-Level Code Completion with Language Models with Fused Dual Context
+
 ** 2024.06 **  [Codefuse-ai pages](https://codefuse-ai.github.io), [D2LLM](https://github.com/codefuse-ai/D2LLM) releases feature about Decomposed and Distilled Large Language Models for Semantic Search, [MFTCoder](https://github.com/codefuse-ai/MFTCoder) releases V0.4.2. More detail see [Release & Next Release](https://github.com/codefuse-ai/codefuse/issues/16)
 
 ** 2024.05 **  ModelCache releases v0.2.1 with supporting multimodal, see [CodeFuse-ModelCache](https://github.com/codefuse-ai/CodeFuse-ModelCache). DevOps-Model support function call, see [CodeFuse-DevOps-Model](https://github.com/codefuse-ai/CodeFuse-DevOps-Model). More detail see [Release & Next Release](https://github.com/codefuse-ai/codefuse/issues/14)
