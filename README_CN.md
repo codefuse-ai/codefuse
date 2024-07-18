@@ -25,7 +25,7 @@ CodeFuse的使命是开发专门设计用于支持整个软件开发生命周期
 
 ## 版本更新
 
-** 2024.06 ** [D2LLM](https://github.com/codefuse-ai/D2LLM) :  基于D2LLM 开源 D2Coder-v1 模型用于代码向量检索, [RepoFuse](https://github.com/codefuse-ai) : 多仓库级别的代码补全
+** 2024.07 ** [D2LLM](https://github.com/codefuse-ai/D2LLM) :  基于D2LLM 开源 D2Coder-v1 模型用于代码向量检索, [RepoFuse](https://github.com/codefuse-ai) : 多仓库级别的代码补全
 
 ** 2024.06 **  [Codefuse-ai 官方主页](https://codefuse-ai.github.io)上线, [D2LLM](https://github.com/codefuse-ai/D2LLM) 新增能力关于分解和蒸馏的大型语言模型用于语义搜索, [MFTCoder](https://github.com/codefuse-ai/MFTCoder) 放出 V0.4.2 版本. 更多内容见[Release & Next Release](https://github.com/codefuse-ai/codefuse/issues/16)
 
