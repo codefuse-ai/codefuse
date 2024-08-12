@@ -54,19 +54,17 @@ CodeFuse的使命是开发专门设计用于支持整个软件开发生命周期
 |                     |[CodeFuse-Query](https://github.com/codefuse-ai/CodeFuse-Query)| 基于查询的代码分析引擎 |       |
 |                     |你正在看的仓库 | CodeFuse通用介绍和索引 |       |
 
-## CodeFuse已发布模型索引
+## CodeFuse已发布主要模型索引
 
 | ModelName               | Short Description | Modele Linls | 
 |:------------------------:|:-----------------:|:-----------------:|
-| CodeFuse-13B     | CodeFuse从0训练模型 | [HF](https://huggingface.co/codefuse-ai/CodeFuse-13B) ; [MS](https://modelscope.cn/models/codefuse-ai/CodeFuse-13B/summary)  | 
-| CodeFuse-CodeLLaMA-34B    | 基于CodeLLaMA-34B微调的模型  | [HF](https://huggingface.co/codefuse-ai/CodeFuse-CodeLlama-34B) ; [MS](https://modelscope.cn/models/codefuse-ai/CodeFuse-CodeLlama-34B/summary)  | 
-| ** CodeFuse-CodeLLaMA-34B-4bits |  34B模型的4bits量化版 |[HF](CodeFuse-CodeLlama-34B-4bits) ; [MS](https://modelscope.cn/models/codefuse-ai/CodeFuse-CodeLlama-34B-4bits/summary)  | 
-| CodeFuse-StarCoder-15B    | 基于StarCoder-15B微调的模型 | [HF](https://huggingface.co/codefuse-ai/CodeFuse-StarCoder-15B) ; [MS](https://modelscope.cn/models/codefuse-ai/CodeFuse-StarCoder-15B/summary)  | 
-| CodeFuse-Qwen-14B    | 基于Qwen-14B微调的模型    | [HF](https://huggingface.co/codefuse-ai/CodeFuse-QWen-14B) ; [MS](https://modelscope.cn/models/codefuse-ai/CodeFuse-QWen-14B/summary)  | 
-| CodeFuse-CodeGeeX2-6B    | 基于CodeGeeX2-6B微调的模型           | [HF](https://huggingface.co/codefuse-ai/CodeFuse-CodeGeeX2-6B) ; [MS](https://modelscope.cn/models/codefuse-ai/CodeFuse-CodeGeeX2-6B/summary)  | 
-| CodeFuse-DevOps-14B-Chat  | 在DevOps-14B上微调的模型          | [HF](https://huggingface.co/codefuse-ai/CodeFuse-DevOps-Model-14B-Chat) ; [MS](https://modelscope.cn/models/codefuse-ai/CodeFuse-DevOps-Model-14B-Chat/summary)  | 
-| CodeFuse-DevOps-14B-Base    | 在Qwen-14B上加训DevOps相关数据的Base模型        | [HF](https://huggingface.co/codefuse-ai/CodeFuse-DevOps-Model-14B-Base) ; [MS](https://modelscope.cn/models/codefuse-ai/CodeFuse-DevOps-Model-14B-Base/summary)  | 
-| CodeFuse-TestGPT-7B    | 基于CodeLLaMA-7B微调的用于测试的模型 | [HF](https://huggingface.co/codefuse-ai/CodeFuse-TestGPT-7B) ; [MS](https://modelscope.cn/models/codefuse-ai/TestGPT-7B/summary)  | 
+| CodeFuse-13B     | Training from scratch by CodeFuse | [HF](https://huggingface.co/codefuse-ai/CodeFuse-13B) ; [MS](https://modelscope.cn/models/codefuse-ai/CodeFuse-13B/summary)  | 
+| CodeFuse-CodeLLaMA-34B    |    Finetuning on CodeLLaMA-34B  | [HF](https://huggingface.co/codefuse-ai/CodeFuse-CodeLlama-34B) ; [MS](https://modelscope.cn/models/codefuse-ai/CodeFuse-CodeLlama-34B/summary)  | 
+| ** CodeFuse-CodeLLaMA-34B-4bits |  4bits quantized 34B model |[HF](CodeFuse-CodeLlama-34B-4bits) ; [MS](https://modelscope.cn/models/codefuse-ai/CodeFuse-CodeLlama-34B-4bits/summary)  | 
+| CodeFuse-DeepSeek-33B | FineTuning on DeepSeek-Coder-33b | [HF](https://huggingface.co/codefuse-ai/CodeFuse-DeepSeek-33B) ; [MS](https://modelscope.cn/models/codefuse-ai/CodeFuse-DeepSeek-33B/summary) |
+| ** CodeFuse-DeepSeek-33B-4bits | 4-bit quantized 33B model | [HF](https://huggingface.co/codefuse-ai/CodeFuse-DeepSeek-33B-4bits) ; [MS](https://modelscope.cn/models/codefuse-ai/CodeFuse-DeepSeek-33B-4bits/summary) |
+| CodeFuse-VLM-14B | SoTA vision-language model | [HF](https://huggingface.co/codefuse-ai/CodeFuse-VLM-14B) ; [MS]([https://modelscope.cn/models/codefuse-ai/CodeFuse-Mixtral-8x7B/summary](https://modelscope.cn/models/ss41979310/CodeFuse-VLM-14B/summary)) |
+ 
 
 
 ## 演示
