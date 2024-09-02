@@ -24,6 +24,7 @@ CodeFuse的使命是开发专门设计用于支持整个软件开发生命周期
 <br/>
 
 ## 版本更新
+** 2024.07 ** [CGE](https://github.com/codefuse-ai/codefuse-CGE) :  基于D2LLM 开源 D2Coder-v1 模型用于代码向量检索; [codefuse-ide](https://github.com/codefuse-ai/codefuse-ide): 一款云端的IDE，支持codefuse代码开发、分析、测例生成
 
 ** 2024.07 ** [D2LLM](https://github.com/codefuse-ai/D2LLM) :  基于D2LLM 开源 D2Coder-v1 模型用于代码向量检索, [RepoFuse](https://github.com/codefuse-ai) : 多仓库级别的代码补全
 
